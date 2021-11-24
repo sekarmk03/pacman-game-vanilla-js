@@ -52,7 +52,7 @@ export const CLASS_LIST = [
   OBJECT_TYPE.GHOSTLAIR
 ];
 
-// prettier-ignore
+// 0 : empty, 1 : wall, 2 : dot, 7 : pill, 9 : ghostlair
 export const LEVEL = [
   1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
   1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1,
